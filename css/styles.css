@@ -1,0 +1,101 @@
+#container{
+	}
+
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	}
+
+h1{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	font-size: 28px;
+	padding: 0 0 0 50px;
+	height: 30px;
+	background:#B4B4B4;
+	}
+	
+img{
+	height: 30px;
+	width: 30px;
+	position: relative;
+	top: -35px;
+	left: 5px;
+	}	
+	
+.light{
+	font-weight: 100;	
+	}
+	
+#search{
+	background-image:url('../backgroundone.jpg');
+	position: relative;
+	top: -35px;
+	height: 640px;
+	}
+	
+#searchterm{
+	width: 400px;
+	height: 20px;
+	margin: 310px 280px;
+	}
+	
+#searchradius{
+	width: 200px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top: -50px;
+	}
+	
+h2{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	margin: 20px 0 30px 0;
+	font-size: 32px;
+	}
+	
+p{
+	font-family: Philosopher, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	height: 35px;
+	margin: 20px 0 -10px 0;
+	}
+	
+#content{
+	margin: 20px 0 0 0;
+	}
+	
+#map_canvas {
+	margin: 3em;
+	padding: 0;
+    width: 500px;
+    height: 375px;
+	top: -140px;
+	left: 460px;
+	bottom: 30px;
+	border: think 10px #FFF;
+}
+
+b{
+	line-height: 10px;
+	height: 10px;
+	margin-top: 130px;
+	text-decoration:underline;
+	}
+	
+ul{
+	font-family: Helvetica;
+	margin: 10px 0 0 0;
+	height: 50px;
+	}
+	
+li{
+	height: 20px;
+	width: 400px;
+	margin: 5px 0;
+	line-height: 25px;
+	font-size: 13px;
+	}
+	
+a{
+	width: 600px;	
+	}
